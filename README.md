@@ -1,5 +1,3 @@
-done scene
-
 
 ## Project info
 
